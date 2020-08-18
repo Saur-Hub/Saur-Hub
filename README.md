@@ -34,3 +34,5 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 [1]: https://twitter.com/im_sakhare
 [2]: https://www.linkedin.com/in/saurabh-sakhare-006a9040/
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
