@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Tux, the Linux mascot, is a penguin.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<Saur-Hub>&theme=<THEME_NAME>" />
+
 
