@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on 3D-Printers.
+🔭 I’m currently working on 3D-Printers, Embedded C/C++.
 
-🌱 I’m currently learning Node-js and Python.
+🌱 I’m currently learning Node-js, C# and Embedded Systems.
 
-👯 I’m looking to collaborate on anything.
+👯 I’m looking to collaborate on Embedded Electronics .
 
 🤔 I’m looking for help with Embedded Electronics.
 
